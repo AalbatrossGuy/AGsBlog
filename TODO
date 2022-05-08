@@ -1,0 +1,20 @@
+Basic Structure :
+  - Create a home page where all the blog links are displayed.
+  - Create a user sign-up system so they can create blogs too.
+  - Use PostgreSQL for backend purpose.
+  - Serialize the blog metadata when inserting to database.
+
+
+Website Related :
+  - Make multi-pages website.
+  - Use good-for-the-eyes color scheme.
+  - Make Tags and a blog filtering system via tags.
+  - Give user the ability to add a thumbnail/art to add to their blog.
+
+
+Core Things To Keep In Mind :
+  - Make a logging system to log all error/warnings/info.
+  - Use elaborate error handling.
+  - Serialize ALL data when inserting to database.
+  - If possible, use async-PostgreSQL for asynchronous db run.
+  - Optimize the flask website as much as possible.
