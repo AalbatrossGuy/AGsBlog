@@ -56,5 +56,13 @@ nav ul li a{
   text-decoration: none;
   letter-spacing: 1px;
   font-size: 20px;
-
 }
+.bg-img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 85%;
+    padding-left: 100px;
+}
+/* 2032x1041 */
